@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>image/baocun.png</file>
+        <file>image/bianji.png</file>
+        <file>image/masaike.png</file>
+        <file>image/northeast.png</file>
+        <file>image/queding.png</file>
+        <file>image/quxiao.png</file>
+        <file>image/wenzigongju.png</file>
+        <file>image/xingzhuang-juxing.png</file>
+        <file>image/xingzhuang-tuoyuanxing.png</file>
+        <file>image/return.png</file>
+    </qresource>
+</RCC>
